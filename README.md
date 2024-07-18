@@ -1,2 +1,2 @@
 # Test-Login
- A login page
+All the testing URL are available in res.http file
